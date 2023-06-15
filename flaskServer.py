@@ -6,7 +6,6 @@ import numpy as np
 import json
 
 
-
 app = Flask(__name__)
 CORS(app)  # Add this line to enable CORS support
 
